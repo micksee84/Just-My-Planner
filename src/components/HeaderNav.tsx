@@ -113,7 +113,7 @@ export const HeaderNav: React.FC<HeaderNavProps> = ({
           {/* App name: plain Super Joyful in ink, no sticker outline or shadow (never under 24px),
               matching the worksheet builder */}
           <span className="hidden min-[1600px]:block font-joyful font-normal text-[24px] leading-none text-[#2D2200] whitespace-nowrap">
-            My planner
+            Just My Planner
           </span>
         </h1>
 
